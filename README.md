@@ -1,6 +1,7 @@
-# InifiteThread
+# InfiniteThread
 
 2D mobile game with zombie theme, evolution of https://github.com/a1ex9788/ZombieWar with procedural dungeon creation.
+
 The code was lost. Only apk.
 
 # Demo
